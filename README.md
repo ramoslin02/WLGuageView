@@ -1,2 +1,4 @@
 # WLGuageView
-This is the GuageView 
+这是一个类似车速表的视图空间。具体使用方法和实现可以参考demo.
+这个空间是在项目开发中，由于第三方的WMGuageView不能满足自己项目的需求，所以基于WMGuageView进行开发的。
+具体使用请参考demo
